@@ -9,4 +9,5 @@ Also, this asset will be updated forever or until it is perfect and allows to cr
 Hola Santi, Asi que este es el Repositorio... necesitas ayuda? Podria arrancar como la documentacion. y lo que son Archivos pesados como las animacionesde de la nueva version, podes usar un link a un archivo de google drive.... este tipo de repositorio te conviene mas para codigo que podes mantener privado y parte publico....estaria bueo hacerlo un poco contributiba la cosa. :) 
 
 Atentamente Narfista, fiel usuario de GKC.
+
 <---- BORRAR ---->
